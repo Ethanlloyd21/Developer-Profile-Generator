@@ -7,9 +7,9 @@ The program will generate a PDF and will be populated with the following:
 2. User name
 3. Links to the following:
 
-* User location via Google Maps
-* User GitHub profile
-* User blog
+    * User location via Google Maps
+    * User GitHub profile
+    * User blog
 
 4. User bio
 5. Number of public repositories

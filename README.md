@@ -3,19 +3,19 @@
   
 The program will generate a PDF and will be populated with the following:
 
-Profile image
-User name
-Links to the following:
+1. Profile image
+2. User name
+3. Links to the following:
 
 * User location via Google Maps
 * User GitHub profile
 * User blog
 
-User bio
-Number of public repositories
-Number of followers
-Number of GitHub stars
-Number of users following
+4. User bio
+5. Number of public repositories
+6. Number of followers
+7. Number of GitHub stars
+8. Number of users following
   
 
  # User Story

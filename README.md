@@ -32,8 +32,11 @@ View the gif sample here: https://drive.google.com/file/d/1S2UGT1OmhEsEEWPQHaLFJ
 
 # Build With
 * HMTL
+* CSS
 * JavaScript
 * Node.js
+
+API: <a href="https://developer.github.com/v3/">Github API</a> 
 
 # License
 This project is licensed under the MIT License - see the LICENSE.md file for details

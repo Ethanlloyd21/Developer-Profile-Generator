@@ -30,7 +30,7 @@ When preparing a report for stakeholders, it is important to have up-to-date inf
 
 # Install
 
- In order to run, the following must be installed:
+ In order to run the program, the following must be installed:
  
  * npm init -y - to create a json file
  * npm i axios - in order to make promise request

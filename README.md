@@ -15,11 +15,11 @@ When preparing a report for stakeholders, it is important to have up-to-date inf
 # Install
 
  In order to run, the following must be installed:
- * npm i
- * npm install require
- * npm install inquire
- * npm install axios
- * npm i puppeteer
+ 
+ * npm init -y - to create a json file
+ * npm i axios - in order to use axios
+ * npm install inquire - in order to ask user for a prompt
+ * npm i puppeteer - in order to create a PDF file of the html
  
 
 

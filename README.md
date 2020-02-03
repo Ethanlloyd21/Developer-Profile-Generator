@@ -26,7 +26,7 @@ When preparing a report for stakeholders, it is important to have up-to-date inf
 The application will be invoked with the following command:
 * node index.js
 
-![](img/generator.PNG)
+![](image/generator.PNG)
 
 # Build With
 * HMTL

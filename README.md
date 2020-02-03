@@ -20,25 +20,13 @@ When preparing a report for stakeholders, it is important to have up-to-date inf
  * npm i axios - in order to use axios
  * npm install inquire - in order to ask user for a prompt
  * npm i puppeteer - in order to create a PDF file of the html
- 
-
-
-# Deploy
-The application will be invoked with the following command:
-* node index.js
-
-# Build With
-* HMTL
-* JavaScript
-* Node.js
-
-# License
-This project is licensed under the MIT License - see the LICENSE.md file for details
 
  
 # Deploy
 The application will be invoked with the following command:
 * node index.js
+
+![](img/generator.PNG)
 
 # Build With
 * HMTL

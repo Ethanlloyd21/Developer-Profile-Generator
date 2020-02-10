@@ -42,7 +42,8 @@ When preparing a report for stakeholders, it is important to have up-to-date inf
 The application will be invoked with the following command:
 * node index.js
 
-View the gif sample here: https://drive.google.com/file/d/1S2UGT1OmhEsEEWPQHaLFJIaxe4lV0tjT/view
+## Demo
+<a href="https://drive.google.com/file/d/1S2UGT1OmhEsEEWPQHaLFJIaxe4lV0tjT/view">View live demo here</a>
 
 ![](image/generator.PNG)
 

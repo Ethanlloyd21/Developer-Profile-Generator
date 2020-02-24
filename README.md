@@ -55,6 +55,9 @@ The application will be invoked with the following command:
 
 API: <a href="https://developer.github.com/v3/">Github API</a> 
 
+## Author
+* Lloyd Marcelino, 2020
+
 # License
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
